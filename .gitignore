@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+superhero-codechallenge-template-main/
+
+# SQLite database
+*.db
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+
+# Mac files
+.DS_Store
+
